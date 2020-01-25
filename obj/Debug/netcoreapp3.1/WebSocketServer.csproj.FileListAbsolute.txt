@@ -1,0 +1,17 @@
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\Lib\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\Lib\netcoreapp3.1\WebSocketServer.dll
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\Lib\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\lkvizhinadze\source\repos\WebSocketServerApp\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\lkvizhinadze\source\repos\Lib\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\lkvizhinadze\source\repos\Lib\netcoreapp3.1\WebSocketServer.dll
+C:\Users\lkvizhinadze\source\repos\Lib\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\lkvizhinadze\source\repos\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServer.csprojAssemblyReference.cache
