@@ -1,9 +1,11 @@
 C:\LocalProjects\Lib\netcoreapp3.1\WebSocketServerCore.deps.json
 C:\LocalProjects\Lib\netcoreapp3.1\WebSocketServerCore.dll
 C:\LocalProjects\Lib\netcoreapp3.1\WebSocketServerCore.pdb
-C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.csprojAssemblyReference.cache
 C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.AssemblyInfoInputs.cache
 C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.AssemblyInfo.cs
 C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.csproj.CopyComplete
 C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.dll
 C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.pdb
+C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.deps.json
+C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.dll
+C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.pdb
