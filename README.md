@@ -5,8 +5,8 @@ Opens a thread all the time when client is connected
 
 
 ### Code block
-{
- ....
-  _ws = new WebSocketServer();
+```
+ .... 
+  _ws = new WebSocketServer(); 
   _ws.Start();
-}
+```
