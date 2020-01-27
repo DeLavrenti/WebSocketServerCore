@@ -9,3 +9,4 @@ C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore
 C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.deps.json
 C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.dll
 C:\LocalProjects\Libs\netcoreapp3.1\WebSocketServerCore.pdb
+C:\LocalProjects\WebSocketServerCore\obj\Debug\netcoreapp3.1\WebSocketServerCore.csprojAssemblyReference.cache
